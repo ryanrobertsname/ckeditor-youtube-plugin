@@ -1,0 +1,21 @@
+{
+    "name": "ryanrobertsname/ckeditor-youtube-plugin",
+    "description": "Port of ckeditor youtube pluging",
+    "homepage": "http://ckeditor.com",
+    "keywords": ["ckeditor", "youtube", "plugin"],
+    "license": "GPL v3",
+    "repositories": [
+    ],
+    "authors": [
+    ],
+    "support": {
+    },
+    "require": {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+    },
+    "scripts": {   
+    }
+}
